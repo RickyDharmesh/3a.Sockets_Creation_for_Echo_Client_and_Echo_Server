@@ -33,7 +33,7 @@ while True:
 ```
 
 ## OUTPUT
-<img width="910" height="501" alt="WhatsApp Image 2026-01-17 at 7 00 49 PM" src="https://github.com/user-attachments/assets/325853d4-cf8c-4c64-82d9-5511bf218398" />
+
 <img width="1651" height="357" alt="Screenshot 2026-05-19 140724" src="https://github.com/user-attachments/assets/608ee294-c0c2-4794-852e-2ab238d03a85" />
 
 ## RESULT
